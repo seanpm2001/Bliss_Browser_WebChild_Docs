@@ -1,0 +1,1 @@
+🌳️🌐️🧒️🔒️📖️ The core Bliss Browser WebChild mode support documentation repository. WebChild is a special filter mode that locks down the Internet to make it suitable and safe for toddlers, young children, and teenagers. It is entirely voluntary, and can be turned off if/when needed, with a password prompt.
